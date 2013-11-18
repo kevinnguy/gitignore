@@ -19,5 +19,10 @@ DerivedData
 *.hmap
 *.xccheckout
 
+*.xcworkspace
+!default.xcworkspace
+
 # CocoaPods
 Pods
+
+
